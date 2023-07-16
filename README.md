@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedor Fullstack
 - 🌱 Entusiasta da Programação
-- ✏️ No momento aprendendo Next js
+- ✏️ No momento me especializando em Spring
 - 👌 Amo Typescript
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: www.linkedin.com/in/devgabrieltrigueiro
