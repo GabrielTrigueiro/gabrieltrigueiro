@@ -1,10 +1,8 @@
 <h1 align="center"> Olá, me chamo Gabriel Trigueiro! </h1>
 
-
-- 🔭 Desenvolvedor Fullstack
-- 🌱 Entusiasta da Programação
-- ✏️ No momento me especializando em Spring
-- 👌 Amo Typescript
+- 🔭 Desenvolvedor javascript
+- ✏️ No aprendendo rails
+- 👌 Amo programação
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: www.linkedin.com/in/devgabrieltrigueiro
 - 📨 devgabrieltrigueiro@gmail.com
