@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, me chamo Gabriel Trigueiro! </h1>
 
 - 🔭 Desenvolvedor javascript
-- ✏️ No aprendendo rails
+- ✏️ Aprendendo rails
 - 👌 Amo programação
 - 😄 Pronomes: Ele/Dele
 - 📫 Para me contatar: www.linkedin.com/in/devgabrieltrigueiro
